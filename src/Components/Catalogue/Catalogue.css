@@ -42,3 +42,14 @@
     width: 30%;
     background-color: white;
 }
+/* media query */
+@media (max-width:650px){
+    .catalogue{
+        flex-direction: column;
+        
+    }
+    .products{
+        flex-basis: 100%;
+        margin: 20px;
+    }
+}
