@@ -16,10 +16,10 @@ const App = () => {
       <Navbar/>
       <Hero/>
       <div className="container">
-        <Title subTitle='Our Products' title='What We Offer'/>
+        <Title subTitle='Our Prod' title='What We Offer'/>
       <Catalogue/>
       <About/>
-      <Title subTitle='Our Products' title='Images'/>
+      <Title subTitle='Our Prod' title='Images'/>
       <Gallery/>
       
       <Title subTitle='Contact Us' title='Get In Touch'/>

@@ -22,9 +22,7 @@ const About = () => {
             <p>Established in 2024, DAX.COM is a leading information technology company that has 
                 been at the forefront of digital transformation. Headquartered in the heart of Harare Zimbabwe, 
                 DAX.COM has built a reputation for delivering innovative and cutting-edge technology solutions
-                 to a diverse range of clients, from small startups to multinational corporations. With a team of
-                 highly skilled engineers, developers, and consultants, the company has consistently demonstrated
-                 its ability to tackle complex challenges and provide customized, best-in-class services.
+                 to a diverse range of clients, from small startups to multinational corporations. 
                  </p>
            
         </div>
